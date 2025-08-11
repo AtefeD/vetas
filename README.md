@@ -4,6 +4,7 @@ https://github.com/lmizrahi/etas
 
 for interfacing with the [floatCSEP](https://github.com/cseptesting/floatcsep) software
 
+preliminary ETAS for Iceland 
 # ETAS: Epidemic-Type Aftershock Sequence
 
 [![DOI](https://zenodo.org/badge/341629005.svg)](https://zenodo.org/badge/latestdoi/341629005)
