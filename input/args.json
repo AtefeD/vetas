@@ -22,8 +22,8 @@
   "delta_m": 0.1,
   "coppersmith_multiplier": 100,
   "earth_radius": 6.3781e3,
-  "shape_coords": "italy_region.npy",
-  "id": "it",
+  "shape_coords": "Iceland.npy",
+  "id": "ice",
   "fn_store_simulation": "../forecasts/",
-  "n_sims": 2
+  "n_sims": 1000
 }

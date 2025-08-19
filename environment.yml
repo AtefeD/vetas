@@ -1,4 +1,4 @@
-name: vetas
+name: vetas-iceland
 channels:
     - conda-forge
     - defaults
