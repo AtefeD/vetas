@@ -1,10 +1,10 @@
 {
-  "start_date": "2016-01-28T00:00:00",
-  "end_date": "2016-02-24T00:00:00",
+  "start_date": "2008-05-30T00:00:00",
+  "end_date": "2008-05-31T00:00:00",
   "fn_catalog": "catalog.csv",
   "data_path": "../store",
-  "auxiliary_start": "2010-01-01 00:00:00",
-  "timewindow_start": "2012-01-01 00:00:00",
+  "auxiliary_start": "1998-06-04 00:00:00",
+  "timewindow_start": "2005-06-04 00:00:00",
   "free_productivity": false,
   "free_background": false,
   "theta_0": {
@@ -18,12 +18,12 @@
     "gamma": 1.381396473768396,
     "rho": 1.4081069589312865
   },
-  "mc": 3.0,
+  "mc": 2.5,
   "delta_m": 0.1,
   "coppersmith_multiplier": 100,
   "earth_radius": 6.3781e3,
-  "shape_coords": "Iceland.npy",
+  "shape_coords": "SW.npy",
   "id": "ice",
   "fn_store_simulation": "../forecasts/",
-  "n_sims": 1000
+  "n_sims": 10000
 }
